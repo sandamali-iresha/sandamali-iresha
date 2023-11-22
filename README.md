@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm DMI Sandamali
+I'm following HNDIT
+I interested web developing and programing
 
 <!--
 **sandamali-iresha/sandamali-iresha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
